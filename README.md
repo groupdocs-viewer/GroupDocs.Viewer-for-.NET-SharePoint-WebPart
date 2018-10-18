@@ -1,1 +1,1 @@
-This repository is depricated.
+This repository is deprecated.
